@@ -1,8 +1,10 @@
-# React + Vite
+# Personal Resume Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was built using React, Vite, and tailwind.
 
-Currently, two official plugins are available:
+to use this as a template download the code, and change the components listed in the components folder and change the images used in the assets folder.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+use Npm install and Npm run dev to test. 
+
+this was also hosted on Vercel, check it out here:
+https://vercel.com/docs/getting-started-with-vercel
